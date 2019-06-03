@@ -1,4 +1,4 @@
-package com.qmf.activiti.helloworld;
+package com.activiti.helloworld;
 
 import com.google.common.collect.Maps;
 import org.activiti.engine.*;
